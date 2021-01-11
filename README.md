@@ -1,9 +1,12 @@
 # Employee-Summary
 
 
-
-
 ## Description
+in this homework we were tasked with creating a node CLI using inquirer that takes in information about employees then generates an html webpage.
+
+
+
+
 
 
 ## published URL
